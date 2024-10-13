@@ -21,4 +21,4 @@
 <br>
 <br>
 <br>
-<a href="https://discord.gg/ZFcK5eK86b"><img src="https://img.shields.io/badge/Discord-BAD%20PRIME%230410-blue"></a>
+<a href="https://discord.gg/ZFcK5eK86b"><img src="https://img.shields.io/badge/Discord-hrshit31-blue"></a>
